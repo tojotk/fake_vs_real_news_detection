@@ -31,3 +31,11 @@ selected the best model
 generate a confusion matrix
 analyze 15 misclassified articles
 identify influential words
+
+Task 5: streamlit deployment
+develop a streamlit app with
+home: project review
+predict :enters a news article and display 
+   fake/real predictions
+   confidence Score
+   probability for both classmethod
